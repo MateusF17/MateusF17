@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Mateus Felipe
 
-**`Desenvolvedora Front-End`**
+**`Desenvolvedor Front-End`**
 
 ### 🤖 Linguagens e Tecnologias
 
